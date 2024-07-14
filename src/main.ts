@@ -1,1 +1,1 @@
-import "./basic/5.ts";
+import "./generics/5.ts";
